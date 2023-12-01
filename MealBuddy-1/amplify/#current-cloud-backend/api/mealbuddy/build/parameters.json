@@ -1,0 +1,7 @@
+{
+    "AppSyncApiName": "mealbuddy",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-mealbuddy-dev-124959-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/f00f3dee035c3deb6853ae21a4c13cb51e276417"
+}

@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "mealbuddy",
+    "serviceName": "AppSync",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7,
+      "apiKeyExpirationDate": "2023-12-07T23:50:49.642Z",
+      "keyDescription": "mealbuddykey"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
+  }
+}
