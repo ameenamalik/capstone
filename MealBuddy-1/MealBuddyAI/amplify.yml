@@ -6,7 +6,8 @@ frontend:
         - npm ci
     build:
       commands:
-        - npx react-native run-android
+        - expo build:ios # for iOS
+	- expo build:android # for Android
   artifacts:
     baseDirectory: .
     files:
